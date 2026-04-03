@@ -1,5 +1,7 @@
 # GuessIt — Mastermind Number Game
 
+(Fun fact - I was playing this game with my friends yesterday and i was loosing bad, so i started building this game at that very moment just to cheat)
+
 Think of any 4-digit number (no repeated digits). GuessIt's algorithm will deduce it in a handful of guesses using elimination logic — just like Mastermind, but with numbers.
 
 ---
