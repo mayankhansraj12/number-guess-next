@@ -1,6 +1,8 @@
 # GuessIt — Mastermind Number Game
 
-(Fun fact - I was playing this game with my friends yesterday and i was loosing bad, so i started building this game at that very moment just to cheat)
+**Live:** [guessit.mayankhansraj.me](https://guessit.mayankhansraj.me)
+
+(Fun fact - I was playing this game with my friends yesterday and i was loosing bad, so i started building this game at that very moment just to cheat. I did cheat later in that game 👻)
 
 Think of any 4-digit number (no repeated digits). GuessIt's algorithm will deduce it in a handful of guesses using elimination logic — just like Mastermind, but with numbers.
 
@@ -75,9 +77,9 @@ GuessIt is a standard Next.js app — Vercel deploys it with zero configuration.
 
 5. Your site is live at `https://your-project.vercel.app` in ~60 seconds.
 
-### Custom domain (optional)
+### Custom domain
 
-In Vercel's project dashboard → **Domains** → add your domain and follow the DNS instructions.
+Live at [guessit.mayankhansraj.me](https://guessit.mayankhansraj.me) — configured via Vercel's Domains dashboard.
 
 ### Environment variables
 
